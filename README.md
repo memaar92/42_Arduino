@@ -7,5 +7,5 @@ The 42 Arduino bootcamp includes a series of four team-based challenges:
 
 For showcasing the third project, we 3D-printed a small satellite model:
 
+https://github.com/user-attachments/assets/8687645f-39c6-4890-9852-95ba273fe6b6
 
-https://github.com/user-attachments/assets/699ece08-a0c8-4727-a820-bb401722cb2a
